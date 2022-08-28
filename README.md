@@ -1,7 +1,7 @@
 #CDG-Assignment
 
 
-Data Prep.ipynb is the python code used for cleaning of the dataset
+Data Prep.ipynb is the python code used for cleaning of the datasets
 
 The powerpoint (Summary of the PowerBI Dashboard Report) consists of the explaination and summary of the findings in dashboard
 
